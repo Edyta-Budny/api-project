@@ -4,5 +4,5 @@ Markdown==3.3.4
 Pillow==2.3.0
 django-filter==2.4.0
 djangorestframework==3.12.4
-psycopg2==2.7.3.2
+psycopg2==2.8.6
 django_heroku==0.3.1
